@@ -1,0 +1,2382 @@
+1
+00:00:04,566 --> 00:00:05,600
+ah hello everyone
+
+2
+00:00:06,566 --> 00:00:09,66
+ahmm ito po yung game namin na
+
+3
+00:00:09,666 --> 00:00:10,866
+Gnome's Well
+
+4
+00:00:11,66 --> 00:00:12,133
+na naka open
+
+5
+00:00:12,266 --> 00:00:13,566
+dito sa unity editor
+
+6
+00:00:13,766 --> 00:00:14,566
+ako po si Kristian
+
+7
+00:00:14,700 --> 00:00:15,933
+Paul Bigornia at kasama
+
+8
+00:00:16,66 --> 00:00:16,866
+ko po si
+
+9
+00:00:17,600 --> 00:00:18,400
+calvin klein
+
+10
+00:00:18,566 --> 00:00:19,366
+catalon at dhann
+
+11
+00:00:19,400 --> 00:00:20,200
+guerrero
+
+12
+00:00:20,200 --> 00:00:21,700
+sa group project na ito
+
+13
+00:00:22,266 --> 00:00:23,0
+sila po ang
+
+14
+00:00:23,0 --> 00:00:23,600
+handling
+
+15
+00:00:23,600 --> 00:00:24,400
+ng
+
+16
+00:00:24,533 --> 00:00:25,333
+documentation
+
+17
+00:00:27,900 --> 00:00:28,700
+so
+
+18
+00:00:28,800 --> 00:00:29,700
+first and foremost
+
+19
+00:00:29,866 --> 00:00:31,233
+let me show you the game first
+
+20
+00:00:31,833 --> 00:00:33,100
+so when i click play
+
+21
+00:00:35,600 --> 00:00:36,400
+ito
+
+22
+00:00:36,733 --> 00:00:39,133
+ito ang magpapakita sa unang title screen
+
+23
+00:00:39,266 --> 00:00:40,33
+and pwede
+
+24
+00:00:40,33 --> 00:00:41,0
+ka mamili ng level
+
+25
+00:00:41,133 --> 00:00:42,0
+so let's select
+
+26
+00:00:42,133 --> 00:00:42,933
+easy mode
+
+27
+00:00:44,33 --> 00:00:45,300
+sa easy mode ah
+
+28
+00:00:45,433 --> 00:00:46,666
+mabagal lang yung rope
+
+29
+00:00:46,833 --> 00:00:48,0
+at hindi ganun ka
+
+30
+00:00:49,533 --> 00:00:50,333
+ah laki
+
+31
+00:00:50,466 --> 00:00:51,266
+yung mga
+
+32
+00:00:51,433 --> 00:00:52,100
+obstacles
+
+33
+00:00:52,100 --> 00:00:52,900
+na meron
+
+34
+00:00:52,933 --> 00:00:53,733
+basta steady
+
+35
+00:00:53,833 --> 00:00:56,400
+ka lang at nasa gitna is pwede mo na siyang tapusin
+
+36
+00:00:56,500 --> 00:00:57,300
+agad agad
+
+37
+00:01:02,900 --> 00:01:04,233
+pagkapunta mo sa ilalim
+
+38
+00:01:05,133 --> 00:01:06,200
+makukuha mo yung
+
+39
+00:01:07,200 --> 00:01:08,100
+ay namatay
+
+40
+00:01:09,133 --> 00:01:11,733
+ayun namamatay siya pag natatouch niya yung mga spike
+
+41
+00:01:11,866 --> 00:01:13,433
+pero yung mga obstacles hindi
+
+42
+00:01:14,233 --> 00:01:14,433
+so
+
+43
+00:01:14,433 --> 00:01:17,266
+ang objective ng game na to is pumunta ka sa ilalim ng
+
+44
+00:01:17,400 --> 00:01:18,733
+well at kunin mo yung treasure
+
+45
+00:01:19,100 --> 00:01:21,300
+at para manalo is makakapunta ka dun
+
+46
+00:01:21,466 --> 00:01:22,866
+pag nakapunta ka na sa taas na
+
+47
+00:01:23,0 --> 00:01:23,800
+hawak mo yung
+
+48
+00:01:24,266 --> 00:01:24,800
+treasure
+
+49
+00:01:24,800 --> 00:01:25,466
+so yan
+
+50
+00:01:25,466 --> 00:01:28,0
+pagkahawak mo ng treasure pwede ka nang bumalik sa taas
+
+51
+00:01:31,500 --> 00:01:32,300
+at
+
+52
+00:01:33,200 --> 00:01:34,0
+manalo
+
+53
+00:01:37,466 --> 00:01:38,800
+ayan ito yung win
+
+54
+00:01:39,600 --> 00:01:40,400
+stage natin
+
+55
+00:01:40,666 --> 00:01:41,900
+pwede nating iback to main
+
+56
+00:01:42,0 --> 00:01:43,700
+menu or new game sa easy mode na to
+
+57
+00:01:43,700 --> 00:01:45,200
+so pag ibaback to game main
+
+58
+00:01:45,466 --> 00:01:46,933
+ah main menu natin ayan
+
+59
+00:01:48,266 --> 00:01:48,933
+meron tayong
+
+60
+00:01:48,933 --> 00:01:50,133
+medium mode and hard mode
+
+61
+00:01:50,200 --> 00:01:51,133
+sa medium mode meron
+
+62
+00:01:51,433 --> 00:01:52,233
+mas maraming
+
+63
+00:01:52,433 --> 00:01:53,0
+obstacles
+
+64
+00:01:53,0 --> 00:01:54,266
+and mas masakit na
+
+65
+00:01:55,300 --> 00:01:56,100
+laruan
+
+66
+00:01:56,433 --> 00:01:57,266
+then we have
+
+67
+00:01:58,333 --> 00:01:59,133
+hard mode
+
+68
+00:01:59,200 --> 00:02:01,300
+which is yung pinakamahirap na masikip
+
+69
+00:02:02,333 --> 00:02:03,133
+at maraming
+
+70
+00:02:03,266 --> 00:02:03,733
+obstacles
+
+71
+00:02:03,733 --> 00:02:05,300
+na kailangan mo gamitan ng tilt
+
+72
+00:02:05,833 --> 00:02:06,633
+yun lang
+
+73
+00:02:09,933 --> 00:02:10,900
+so after that
+
+74
+00:02:11,266 --> 00:02:13,600
+ahmm iexplain ko naman sa inyo yung architecture
+
+75
+00:02:13,700 --> 00:02:14,500
+na ginamit namin
+
+76
+00:02:15,433 --> 00:02:16,433
+sa larong ito
+
+77
+00:02:16,500 --> 00:02:17,300
+so
+
+78
+00:02:17,300 --> 00:02:18,100
+ang build
+
+79
+00:02:18,100 --> 00:02:19,33
+profile namin is
+
+80
+00:02:19,233 --> 00:02:21,100
+we're building on the android platform
+
+81
+00:02:21,300 --> 00:02:22,433
+so ito lang yung settings
+
+82
+00:02:22,533 --> 00:02:23,500
+na ginamit namin yung
+
+83
+00:02:23,633 --> 00:02:24,433
+default lang
+
+84
+00:02:24,833 --> 00:02:25,833
+at sa scene list
+
+85
+00:02:26,433 --> 00:02:27,233
+ginamitan
+
+86
+00:02:27,866 --> 00:02:28,266
+syempre
+
+87
+00:02:28,266 --> 00:02:28,666
+maraming
+
+88
+00:02:28,666 --> 00:02:30,500
+si apat na scene yung ginawa namin kaya
+
+89
+00:02:30,700 --> 00:02:31,466
+eto yung scene
+
+90
+00:02:31,466 --> 00:02:34,66
+eto yung dapat na tamang order ng pagkakagawa niya so
+
+91
+00:02:34,200 --> 00:02:35,266
+menu easy
+
+92
+00:02:35,633 --> 00:02:36,833
+hard tsaka medium
+
+93
+00:02:38,833 --> 00:02:43,133
+yun yung pagkakaayos niya or pwede nating imove
+
+94
+00:02:46,33 --> 00:02:48,700
+ahmm i'm gonna show you some of the coding
+
+95
+00:02:48,833 --> 00:02:49,700
+highlights ng
+
+96
+00:02:50,466 --> 00:02:51,266
+ang aming
+
+97
+00:02:52,266 --> 00:02:54,200
+system so punta tayo dito sa
+
+98
+00:02:54,600 --> 00:02:55,400
+project
+
+99
+00:02:56,300 --> 00:02:57,100
+ah folder
+
+100
+00:02:57,233 --> 00:02:58,666
+natin and punta tayo sa scripts
+
+101
+00:02:58,733 --> 00:02:59,433
+sa scripts
+
+102
+00:02:59,433 --> 00:03:00,233
+meron tayong
+
+103
+00:03:00,266 --> 00:03:01,633
+maraming folder pero
+
+104
+00:03:02,600 --> 00:03:04,533
+pwede ko siyang isa isahin pero matagal
+
+105
+00:03:04,666 --> 00:03:05,900
+sige isa isahin ko siya
+
+106
+00:03:07,633 --> 00:03:08,900
+so dito sa part ng
+
+107
+00:03:09,66 --> 00:03:09,700
+scripts
+
+108
+00:03:09,700 --> 00:03:10,466
+ay meron tayong
+
+109
+00:03:10,466 --> 00:03:11,266
+body part
+
+110
+00:03:11,400 --> 00:03:12,333
+itong part ng body part
+
+111
+00:03:12,466 --> 00:03:13,266
+is ito yung
+
+112
+00:03:13,266 --> 00:03:14,900
+nagkokontrol
+
+113
+00:03:15,33 --> 00:03:16,200
+sa individual parts
+
+114
+00:03:16,300 --> 00:03:17,100
+ng ating
+
+115
+00:03:17,466 --> 00:03:18,466
+ah gnome
+
+116
+00:03:18,666 --> 00:03:20,800
+so kung pupunta tayo sa scenes
+
+117
+00:03:21,400 --> 00:03:22,200
+sa easy
+
+118
+00:03:23,800 --> 00:03:25,233
+ayan sa hard easy
+
+119
+00:03:25,833 --> 00:03:26,833
+or pumunta tayo sa g
+
+120
+00:03:27,100 --> 00:03:28,600
+nom at pumunta tayo dito sa 
+
+121
+00:03:28,733 --> 00:03:29,533
+gnome ko natin
+
+122
+00:03:29,666 --> 00:03:30,500
+ito yung pinaka
+
+123
+00:03:31,266 --> 00:03:32,33
+gnome 
+
+124
+00:03:32,33 --> 00:03:32,700
+ko na
+
+125
+00:03:32,700 --> 00:03:33,500
+or gnome
+
+126
+00:03:34,400 --> 00:03:35,200
+character natin
+
+127
+00:03:35,266 --> 00:03:36,633
+and yung body part is connected
+
+128
+00:03:36,700 --> 00:03:38,600
+siya to each of the body part na meron tayo
+
+129
+00:03:40,266 --> 00:03:41,633
+so ayan oh
+
+130
+00:03:41,833 --> 00:03:42,666
+naka kwan
+
+131
+00:03:42,800 --> 00:03:43,800
+siya para ito sa
+
+132
+00:03:44,800 --> 00:03:45,600
+ahmm
+
+133
+00:03:46,266 --> 00:03:47,600
+blood fountain natin
+
+134
+00:03:48,433 --> 00:03:49,533
+na pag naputol
+
+135
+00:03:49,700 --> 00:03:50,866
+magkakaroon siya ng
+
+136
+00:03:51,433 --> 00:03:52,400
+spray ng red
+
+137
+00:03:52,600 --> 00:03:53,133
+para makita
+
+138
+00:03:53,133 --> 00:03:54,666
+natin na naputol talaga yung
+
+139
+00:03:55,66 --> 00:03:55,866
+part na yun
+
+140
+00:03:56,33 --> 00:03:56,833
+then after nun
+
+141
+00:03:56,833 --> 00:03:58,333
+is we have the camera follow
+
+142
+00:03:58,666 --> 00:03:59,233
+sa camera
+
+143
+00:03:59,233 --> 00:03:59,866
+follow naman
+
+144
+00:03:59,866 --> 00:04:00,333
+nakikita
+
+145
+00:04:00,333 --> 00:04:02,633
+naman natin kanina na sinusundan nung camera yung
+
+146
+00:04:03,266 --> 00:04:04,66
+ahmm
+
+147
+00:04:04,700 --> 00:04:06,400
+sinusundan ng camera yung ating
+
+148
+00:04:06,866 --> 00:04:08,33
+gnome pag pababa
+
+149
+00:04:08,133 --> 00:04:09,633
+siya para hindi lang dun sa
+
+150
+00:04:10,266 --> 00:04:11,66
+kung saan natin
+
+151
+00:04:11,200 --> 00:04:12,400
+nailagay yung camera
+
+152
+00:04:12,800 --> 00:04:14,66
+ay dun na siya pupunta
+
+153
+00:04:14,266 --> 00:04:14,900
+kaya tignan
+
+154
+00:04:14,900 --> 00:04:15,700
+natin dito
+
+155
+00:04:19,300 --> 00:04:21,100
+ang camera natin is nakapoint
+
+156
+00:04:21,233 --> 00:04:22,100
+sa taas lang ito
+
+157
+00:04:23,233 --> 00:04:25,0
+nakapoint lang siya sa taas ng kwan
+
+158
+00:04:25,200 --> 00:04:26,200
+pero ang ginawa natin is
+
+159
+00:04:26,300 --> 00:04:27,100
+lagyan natin na siya
+
+160
+00:04:27,133 --> 00:04:27,933
+natin ng camera
+
+161
+00:04:28,200 --> 00:04:29,0
+follow para
+
+162
+00:04:29,900 --> 00:04:31,133
+samahan niya pa rin yung
+
+163
+00:04:31,633 --> 00:04:32,433
+ating gnome
+
+164
+00:04:32,933 --> 00:04:34,100
+then we have the game manager
+
+165
+00:04:34,200 --> 00:04:36,600
+pag wala tong game manager di natin maaayos ito
+
+166
+00:04:36,833 --> 00:04:37,633
+kayat nandito
+
+167
+00:04:37,800 --> 00:04:38,666
+yung mga
+
+168
+00:04:38,933 --> 00:04:40,266
+bagay like yung reset
+
+169
+00:04:40,400 --> 00:04:41,200
+pag gusto nating
+
+170
+00:04:41,633 --> 00:04:42,633
+inew game or
+
+171
+00:04:43,233 --> 00:04:44,833
+ah gumawa ng panibagong game
+
+172
+00:04:45,200 --> 00:04:46,0
+is
+
+173
+00:04:46,0 --> 00:04:46,900
+magag pwede na
+
+174
+00:04:47,200 --> 00:04:48,33
+itong game manager
+
+175
+00:04:48,133 --> 00:04:48,933
+dito na
+
+176
+00:04:49,0 --> 00:04:50,100
+nilagay yung pinaka
+
+177
+00:04:50,233 --> 00:04:51,33
+main mechanics
+
+178
+00:04:51,66 --> 00:04:52,266
+ng laro like new game
+
+179
+00:04:52,433 --> 00:04:53,233
+back to game
+
+180
+00:04:53,800 --> 00:04:54,600
+mga ganun
+
+181
+00:04:54,866 --> 00:04:56,733
+then we have the create new gnome
+
+182
+00:04:57,433 --> 00:04:58,600
+ayan remove g nome
+
+183
+00:04:59,400 --> 00:05:00,200
+ah kill gnome
+
+184
+00:05:00,300 --> 00:05:01,533
+pag mamamatay na yung gnome
+
+185
+00:05:02,433 --> 00:05:04,300
+syempre magrereset siya after delay
+
+186
+00:05:04,800 --> 00:05:05,466
+then pag
+
+187
+00:05:05,466 --> 00:05:06,100
+nahawakan
+
+188
+00:05:06,100 --> 00:05:06,666
+yung touch
+
+189
+00:05:06,666 --> 00:05:07,733
+papatayin yung gnome
+
+190
+00:05:07,933 --> 00:05:08,733
+pag fire
+
+191
+00:05:09,0 --> 00:05:09,500
+treasure
+
+192
+00:05:09,500 --> 00:05:10,466
+nakuha yung treasure
+
+193
+00:05:11,266 --> 00:05:12,66
+then pag nakuha
+
+194
+00:05:12,200 --> 00:05:13,433
+pag nakapunta na tayo sa exit
+
+195
+00:05:13,700 --> 00:05:14,200
+siya yung
+
+196
+00:05:14,200 --> 00:05:15,0
+mananalo
+
+197
+00:05:15,200 --> 00:05:18,33
+then pag ipopause mo tsaka pag irerestart mo yung game
+
+198
+00:05:18,633 --> 00:05:20,133
+then eto namang gnome natin
+
+199
+00:05:21,866 --> 00:05:22,666
+ito dito
+
+200
+00:05:22,866 --> 00:05:24,200
+dito inayos kung paano
+
+201
+00:05:24,533 --> 00:05:25,933
+hawakan nung gnome yung
+
+202
+00:05:26,666 --> 00:05:27,466
+ahmm
+
+203
+00:05:28,66 --> 00:05:29,266
+ano to yung treasure
+
+204
+00:05:29,400 --> 00:05:30,433
+pag nakuha niya na
+
+205
+00:05:30,733 --> 00:05:31,300
+then after
+
+206
+00:05:31,300 --> 00:05:32,100
+nun is pag
+
+207
+00:05:32,900 --> 00:05:34,400
+pag namatay siya syempre
+
+208
+00:05:34,600 --> 00:05:35,400
+meron yung
+
+209
+00:05:35,466 --> 00:05:37,333
+tendency na maiwan yung mga katawan niya
+
+210
+00:05:37,633 --> 00:05:38,800
+nilagyan din ng
+
+211
+00:05:39,233 --> 00:05:40,33
+ahmm
+
+212
+00:05:40,500 --> 00:05:42,66
+function para matanggal yung katawan
+
+213
+00:05:42,200 --> 00:05:43,100
+pag nagsettle
+
+214
+00:05:43,266 --> 00:05:44,66
+na yung katawan niya
+
+215
+00:05:45,633 --> 00:05:46,533
+yun lang yung sa
+
+216
+00:05:46,733 --> 00:05:47,533
+gno me natin
+
+217
+00:05:47,933 --> 00:05:48,733
+sa input
+
+218
+00:05:48,733 --> 00:05:49,466
+manager natin
+
+219
+00:05:49,466 --> 00:05:50,533
+ito yung kailangan nating
+
+220
+00:05:51,500 --> 00:05:52,400
+ah code
+
+221
+00:05:52,500 --> 00:05:53,300
+para
+
+222
+00:05:53,433 --> 00:05:54,233
+madetect
+
+223
+00:05:54,233 --> 00:05:55,33
+ng
+
+224
+00:05:55,66 --> 00:05:56,333
+unity yung mga input
+
+225
+00:05:56,466 --> 00:05:57,33
+na ginagawa
+
+226
+00:05:57,33 --> 00:05:59,300
+natin sa screen like yung up and down
+
+227
+00:06:00,266 --> 00:06:01,666
+yan sa main menu natin
+
+228
+00:06:02,300 --> 00:06:03,733
+dito natin makikita na
+
+229
+00:06:03,866 --> 00:06:05,200
+iloload niya yung pinaka
+
+230
+00:06:05,433 --> 00:06:06,333
+main scene natin
+
+231
+00:06:07,200 --> 00:06:08,0
+which is yung
+
+232
+00:06:08,433 --> 00:06:09,933
+menu so pagka play
+
+233
+00:06:10,66 --> 00:06:11,533
+pagka pindot pagka open na pagka
+
+234
+00:06:11,666 --> 00:06:12,500
+open ng player
+
+235
+00:06:12,733 --> 00:06:13,533
+sa
+
+236
+00:06:13,533 --> 00:06:14,333
+ah ah
+
+237
+00:06:14,833 --> 00:06:16,133
+ah halimbawa sa application
+
+238
+00:06:16,266 --> 00:06:17,66
+sa android
+
+239
+00:06:17,400 --> 00:06:18,200
+dahil dito sa main
+
+240
+00:06:18,266 --> 00:06:21,0
+menu na to mapupunta siya sa menu na
+
+241
+00:06:21,233 --> 00:06:22,33
+scene natin
+
+242
+00:06:22,533 --> 00:06:23,800
+then we have the menu
+
+243
+00:06:25,33 --> 00:06:25,833
+script
+
+244
+00:06:26,33 --> 00:06:27,266
+eto dito lang naman para
+
+245
+00:06:27,400 --> 00:06:28,666
+mapag pinipindot mo yung
+
+246
+00:06:29,700 --> 00:06:30,900
+ang easy medium
+
+247
+00:06:31,33 --> 00:06:32,333
+hard is yun
+
+248
+00:06:32,533 --> 00:06:33,833
+mapupunta siya sa tamang
+
+249
+00:06:34,633 --> 00:06:35,900
+scene na kailangan natin
+
+250
+00:06:36,600 --> 00:06:37,300
+itong remove
+
+251
+00:06:37,300 --> 00:06:38,100
+after delay
+
+252
+00:06:38,100 --> 00:06:38,900
+naman is
+
+253
+00:06:39,100 --> 00:06:40,933
+ginagamit para mawala yung katawan
+
+254
+00:06:41,300 --> 00:06:42,100
+pagkatapos ng
+
+255
+00:06:43,100 --> 00:06:44,33
+pagkamatay niya
+
+256
+00:06:44,233 --> 00:06:45,33
+sa resetable
+
+257
+00:06:45,200 --> 00:06:46,133
+pang reset natin
+
+258
+00:06:46,266 --> 00:06:47,66
+syempre para
+
+259
+00:06:47,266 --> 00:06:48,500
+pag pinindot natin yung reset
+
+260
+00:06:48,633 --> 00:06:49,733
+marereset yung laro
+
+261
+00:06:50,133 --> 00:06:51,0
+pati yung mga bagay
+
+262
+00:06:51,133 --> 00:06:52,0
+bagay na nasa loob
+
+263
+00:06:52,300 --> 00:06:54,433
+then ito yung main team natin
+
+264
+00:06:54,533 --> 00:06:55,333
+which is yung
+
+265
+00:06:55,933 --> 00:06:56,866
+ahmm rope
+
+266
+00:06:57,500 --> 00:06:58,400
+script dito
+
+267
+00:06:58,733 --> 00:06:59,533
+ang pinaka
+
+268
+00:06:59,733 --> 00:07:00,933
+main function ng
+
+269
+00:07:01,66 --> 00:07:01,866
+script natin is
+
+270
+00:07:02,833 --> 00:07:05,233
+ahmm yung isang object na which is yung rope
+
+271
+00:07:05,333 --> 00:07:06,66
+rope segment
+
+272
+00:07:06,66 --> 00:07:08,600
+prefab inuulit ulit niya lang yun na gawin
+
+273
+00:07:08,666 --> 00:07:10,300
+so halimbawa one inch na rope
+
+274
+00:07:10,533 --> 00:07:11,333
+na rope
+
+275
+00:07:11,466 --> 00:07:12,266
+ah segment
+
+276
+00:07:13,100 --> 00:07:14,133
+ah yung object na yun
+
+277
+00:07:14,300 --> 00:07:15,66
+iduduplicate
+
+278
+00:07:15,66 --> 00:07:16,700
+niyo lang ng iduduplicate para humaba
+
+279
+00:07:17,0 --> 00:07:17,900
+pag ibababalik
+
+280
+00:07:18,33 --> 00:07:18,933
+ipapataas naman natin
+
+281
+00:07:19,66 --> 00:07:19,666
+idedelete
+
+282
+00:07:19,666 --> 00:07:21,800
+niyo naman yun para tumaas so yun lang yung pinaka main
+
+283
+00:07:22,300 --> 00:07:23,33
+ah function
+
+284
+00:07:23,33 --> 00:07:23,900
+nitong rope
+
+285
+00:07:24,33 --> 00:07:24,533
+segment
+
+286
+00:07:24,533 --> 00:07:25,266
+yung rope
+
+287
+00:07:25,266 --> 00:07:26,66
+kwan natin
+
+288
+00:07:26,533 --> 00:07:27,333
+then
+
+289
+00:07:27,833 --> 00:07:28,433
+sa signal
+
+290
+00:07:28,433 --> 00:07:30,633
+on touch pag halimbawa yang mga obstacle natin
+
+291
+00:07:30,800 --> 00:07:31,600
+itong mga to
+
+292
+00:07:31,700 --> 00:07:32,666
+pag natouch niya
+
+293
+00:07:33,100 --> 00:07:36,666
+ahmm ikakwan niya na sa game manager na uy
+
+294
+00:07:36,866 --> 00:07:37,666
+natouch niya to
+
+295
+00:07:37,900 --> 00:07:39,900
+o kaya kailangan mo patayin yung no
+
+296
+00:07:40,33 --> 00:07:40,833
+yun lang siya
+
+297
+00:07:42,400 --> 00:07:44,233
+sa singleton  lang naman is
+
+298
+00:07:44,933 --> 00:07:45,933
+parang taga
+
+299
+00:07:46,100 --> 00:07:47,33
+check lang to ng
+
+300
+00:07:47,433 --> 00:07:48,266
+ah mga bagay
+
+301
+00:07:48,400 --> 00:07:49,200
+bagay sa laro
+
+302
+00:07:49,900 --> 00:07:50,700
+sa sprite
+
+303
+00:07:50,700 --> 00:07:51,500
+swapper
+
+304
+00:07:51,533 --> 00:07:52,466
+pag kwan to
+
+305
+00:07:52,700 --> 00:07:53,500
+pag nakuha
+
+306
+00:07:53,533 --> 00:07:54,333
+niya na yung
+
+307
+00:07:55,266 --> 00:07:56,800
+ano to yung treasure
+
+308
+00:07:56,900 --> 00:07:58,100
+papalitan na yung sprite
+
+309
+00:07:58,233 --> 00:07:59,33
+yung kamay niya
+
+310
+00:07:59,233 --> 00:08:01,0
+na halimbawa sa una walang ka
+
+311
+00:08:01,266 --> 00:08:02,0
+walang hawak
+
+312
+00:08:02,0 --> 00:08:03,933
+pagka nahawakan niya na yung treasure
+
+313
+00:08:04,333 --> 00:08:05,666
+papalitan niya yung picture
+
+314
+00:08:06,133 --> 00:08:06,933
+tas gagawin niya
+
+315
+00:08:07,133 --> 00:08:08,66
+parang may hawak na
+
+316
+00:08:12,733 --> 00:08:13,433
+tas itong
+
+317
+00:08:13,433 --> 00:08:14,233
+swinging naman
+
+318
+00:08:14,900 --> 00:08:15,700
+kwan to
+
+319
+00:08:16,66 --> 00:08:16,866
+para sa
+
+320
+00:08:17,400 --> 00:08:19,66
+tilt natin sa android phone
+
+321
+00:08:22,566 --> 00:08:24,66
+then pagkatapos ng mga coding
+
+322
+00:08:24,200 --> 00:08:25,833
+highlights natin papakita ko sa inyo
+
+323
+00:08:26,633 --> 00:08:27,666
+yung hierarchy
+
+324
+00:08:27,933 --> 00:08:30,366
+natin at yung mga assets na nilagay natin ito
+
+325
+00:08:34,866 --> 00:08:36,33
+eto lang naman ang mga main
+
+326
+00:08:36,166 --> 00:08:37,166
+kwan natin sa
+
+327
+00:08:37,266 --> 00:08:40,0
+assets natin we have the gino gnome
+
+328
+00:08:40,933 --> 00:08:41,733
+the level
+
+329
+00:08:43,633 --> 00:08:44,433
+the
+
+330
+00:08:45,633 --> 00:08:46,366
+plugins
+
+331
+00:08:46,366 --> 00:08:47,433
+kusa na yan sa android
+
+332
+00:08:47,733 --> 00:08:48,533
+yung scenes
+
+333
+00:08:48,600 --> 00:08:49,400
+natin yung mga
+
+334
+00:08:49,433 --> 00:08:50,200
+scripts
+
+335
+00:08:50,200 --> 00:08:51,566
+yung mga build
+
+336
+00:08:51,666 --> 00:08:52,466
+profiles
+
+337
+00:08:52,966 --> 00:08:53,800
+yung mga sounds
+
+338
+00:08:54,0 --> 00:08:54,866
+yung mga sprites
+
+339
+00:08:55,33 --> 00:08:55,833
+na ginamit natin
+
+340
+00:08:56,166 --> 00:08:56,966
+yung mga yan
+
+341
+00:08:58,800 --> 00:09:00,200
+streaming ah tas yung
+
+342
+00:09:00,433 --> 00:09:01,266
+ayan mga
+
+343
+00:09:01,566 --> 00:09:04,166
+eto mga kwan na to default na to ng laro
+
+344
+00:09:06,800 --> 00:09:07,766
+so after nun
+
+345
+00:09:10,533 --> 00:09:11,800
+isa isahin natin yung mga
+
+346
+00:09:11,933 --> 00:09:12,733
+scenes na
+
+347
+00:09:12,766 --> 00:09:13,400
+ginamit
+
+348
+00:09:13,400 --> 00:09:15,533
+ginawa natin so punta muna tayo sa menu
+
+349
+00:09:15,933 --> 00:09:16,733
+so sa menu
+
+350
+00:09:17,266 --> 00:09:18,466
+simple lang naman yung ginawa
+
+351
+00:09:18,833 --> 00:09:19,633
+namin dito
+
+352
+00:09:20,633 --> 00:09:21,800
+yan main camera
+
+353
+00:09:22,566 --> 00:09:23,533
+canvas loading
+
+354
+00:09:23,733 --> 00:09:24,200
+overlay
+
+355
+00:09:24,200 --> 00:09:24,966
+pag nagloading
+
+356
+00:09:24,966 --> 00:09:25,766
+makikita mo yun
+
+357
+00:09:26,266 --> 00:09:27,200
+then sa image
+
+358
+00:09:28,200 --> 00:09:29,733
+itong image na to nakalagay
+
+359
+00:09:29,833 --> 00:09:30,766
+then easy medium
+
+360
+00:09:30,833 --> 00:09:31,633
+hard na button
+
+361
+00:09:31,733 --> 00:09:32,533
+ito tong
+
+362
+00:09:32,566 --> 00:09:34,133
+tatlong to tapos yung main menu
+
+363
+00:09:34,533 --> 00:09:35,266
+event system
+
+364
+00:09:35,266 --> 00:09:37,0
+tsaka menu na object para mapagconnect
+
+365
+00:09:37,66 --> 00:09:37,866
+connect natin sila
+
+366
+00:09:38,366 --> 00:09:39,166
+then sa easy
+
+367
+00:09:39,600 --> 00:09:40,400
+sa tatlong to
+
+368
+00:09:40,433 --> 00:09:40,766
+pare
+
+369
+00:09:40,766 --> 00:09:43,266
+parehas lang sila ang pag pinagkakaiba lang nila is
+
+370
+00:09:44,33 --> 00:09:47,433
+yung pagkakaplace tsaka yung paghaba ng rope
+
+371
+00:09:47,633 --> 00:09:48,466
+tsaka yung placement
+
+372
+00:09:48,633 --> 00:09:50,400
+ng mga ah pampatay
+
+373
+00:09:50,533 --> 00:09:51,66
+natin sa
+
+374
+00:09:51,66 --> 00:09:51,866
+room natin
+
+375
+00:09:52,233 --> 00:09:53,200
+so sa easy ito
+
+376
+00:09:53,333 --> 00:09:54,133
+yung medyo madami
+
+377
+00:09:55,400 --> 00:09:56,200
+yan
+
+378
+00:09:56,333 --> 00:09:57,333
+so sa canvas
+
+379
+00:09:57,866 --> 00:09:58,533
+meron siyang
+
+380
+00:09:58,533 --> 00:09:59,400
+gameplay menu
+
+381
+00:09:59,733 --> 00:10:00,766
+pang post tsaka
+
+382
+00:10:01,33 --> 00:10:01,833
+up down
+
+383
+00:10:01,866 --> 00:10:02,666
+then game over
+
+384
+00:10:02,766 --> 00:10:04,466
+pang new game tsaka back to menu
+
+385
+00:10:04,833 --> 00:10:05,766
+tas sa main menu
+
+386
+00:10:05,866 --> 00:10:06,400
+meron tayong
+
+387
+00:10:06,400 --> 00:10:07,200
+restart game
+
+388
+00:10:07,366 --> 00:10:07,966
+back tsaka
+
+389
+00:10:07,966 --> 00:10:09,233
+resume game tsaka debug
+
+390
+00:10:09,400 --> 00:10:10,400
+which is yung invincible
+
+391
+00:10:11,166 --> 00:10:12,600
+pag pinindot mo yung invincible
+
+392
+00:10:13,866 --> 00:10:14,766
+is ma
+
+393
+00:10:15,966 --> 00:10:17,866
+hindi mamamatay yung character natin
+
+394
+00:10:18,433 --> 00:10:19,233
+so
+
+395
+00:10:19,566 --> 00:10:21,33
+pagkatapos nitong canvas
+
+396
+00:10:21,200 --> 00:10:22,333
+meron tayong main camera
+
+397
+00:10:22,400 --> 00:10:23,766
+sa main camera natin ay
+
+398
+00:10:24,566 --> 00:10:26,33
+yun nga yung sabi ko kanina
+
+399
+00:10:27,466 --> 00:10:28,966
+dito nagaganap yung
+
+400
+00:10:29,233 --> 00:10:29,766
+kailangan
+
+401
+00:10:29,766 --> 00:10:30,566
+maganao
+
+402
+00:10:32,866 --> 00:10:33,933
+ayan kung ano yung
+
+403
+00:10:34,266 --> 00:10:35,966
+video na yun kung fit yung
+
+404
+00:10:36,533 --> 00:10:37,333
+ang
+
+405
+00:10:37,533 --> 00:10:38,766
+phone mo diyan yan yung makikita
+
+406
+00:10:38,966 --> 00:10:39,933
+niya tsaka yun
+
+407
+00:10:40,633 --> 00:10:41,566
+then sa rope
+
+408
+00:10:42,133 --> 00:10:42,766
+dito na
+
+409
+00:10:42,766 --> 00:10:45,466
+dito naman dito nakalagay nakapwesto yung rope natin
+
+410
+00:10:46,133 --> 00:10:46,866
+sa input
+
+411
+00:10:46,866 --> 00:10:47,333
+manager
+
+412
+00:10:47,333 --> 00:10:49,433
+yan yung nagkukuha ng input
+
+413
+00:10:49,566 --> 00:10:50,833
+natin sa event system
+
+414
+00:10:51,200 --> 00:10:52,0
+yan naman
+
+415
+00:10:52,166 --> 00:10:53,266
+para makuha niya yung
+
+416
+00:10:54,400 --> 00:10:55,966
+tamang pagkuha ng button
+
+417
+00:10:56,133 --> 00:10:56,933
+sa game manager
+
+418
+00:10:57,133 --> 00:10:57,933
+ito yung mga
+
+419
+00:10:58,366 --> 00:11:00,200
+ilalagay natin para sa game manager
+
+420
+00:11:00,333 --> 00:11:01,0
+natin para
+
+421
+00:11:01,0 --> 00:11:02,133
+maglaro ng maayos
+
+422
+00:11:02,733 --> 00:11:03,633
+then sa start point
+
+423
+00:11:03,766 --> 00:11:04,666
+dito magsisimula yung
+
+424
+00:11:04,800 --> 00:11:05,433
+load natin
+
+425
+00:11:05,433 --> 00:11:06,0
+treasure
+
+426
+00:11:06,0 --> 00:11:06,800
+present
+
+427
+00:11:08,366 --> 00:11:10,166
+pag present na yung treasure sa kamay
+
+428
+00:11:10,266 --> 00:11:11,66
+nung gnome
+
+429
+00:11:11,366 --> 00:11:12,666
+ayan papalitan niya na yung
+
+430
+00:11:13,0 --> 00:11:13,800
+kamay niya
+
+431
+00:11:13,866 --> 00:11:14,666
+then sa background
+
+432
+00:11:14,733 --> 00:11:15,766
+ayan tong black
+
+433
+00:11:15,833 --> 00:11:17,66
+medyo gray para hindi siya
+
+434
+00:11:17,833 --> 00:11:18,866
+medyo black para hindi siya
+
+435
+00:11:19,400 --> 00:11:20,166
+magmukhang gray
+
+436
+00:11:20,166 --> 00:11:20,833
+then sa level
+
+437
+00:11:20,833 --> 00:11:21,633
+ito naman yung
+
+438
+00:11:21,833 --> 00:11:22,966
+laman niya lahat day
+
+439
+00:11:23,266 --> 00:11:24,66
+itong mga to
+
+440
+00:11:24,733 --> 00:11:25,533
+kaya makikita
+
+441
+00:11:25,533 --> 00:11:26,733
+natin sa background brown
+
+442
+00:11:27,333 --> 00:11:28,133
+and ito naman
+
+443
+00:11:28,333 --> 00:11:29,400
+background natin sa level
+
+444
+00:11:29,600 --> 00:11:30,466
+pagkatapos ng level
+
+445
+00:11:30,633 --> 00:11:31,433
+syempre
+
+446
+00:11:32,733 --> 00:11:33,533
+yung menu
+
+447
+00:11:33,633 --> 00:11:36,0
+natin para mailagay natin yung script sa ibang bagay
+
+448
+00:14:15,700 --> 00:14:17,666
+sa mga screens ng phone na gagamitin
+
+449
+00:14:17,766 --> 00:14:18,566
+for example
+
+450
+00:14:19,33 --> 00:14:20,533
+tong laro kasi is nakadesign
+
+451
+00:14:20,700 --> 00:14:21,266
+for smaller
+
+452
+00:14:21,266 --> 00:14:22,666
+screens kaya pag nilakihan
+
+453
+00:14:23,433 --> 00:14:24,233
+is na
+
+454
+00:14:24,933 --> 00:14:26,266
+nagugulo yung ibang
+
+455
+00:14:26,466 --> 00:14:27,233
+dimension
+
+456
+00:14:27,233 --> 00:14:28,966
+tas pag sobrang liit naman ng phone
+
+457
+00:14:29,266 --> 00:14:30,66
+is
+
+458
+00:14:30,233 --> 00:14:32,366
+na nagugulo ganun din nagugulo yung
+
+459
+00:14:33,633 --> 00:14:34,866
+yung mga dimension niya
+
+460
+00:14:34,900 --> 00:14:36,433
+so ang improvement na pwede kong
+
+461
+00:14:37,66 --> 00:14:38,66
+isuggest sa larong
+
+462
+00:14:38,166 --> 00:14:39,100
+to is gawin siyang
+
+463
+00:14:39,233 --> 00:14:39,833
+3D
+
+464
+00:14:39,833 --> 00:14:40,866
+pero syempre ibang usapan
+
+465
+00:14:40,966 --> 00:14:41,633
+na ang three d
+
+466
+00:14:41,633 --> 00:14:42,733
+kaya mahirap gawin yun
+
+467
+00:14:43,300 --> 00:14:44,666
+pero that's a good improvement
+
+468
+00:14:45,66 --> 00:14:49,666
+Github Link: 
+https://github.com/kuporo2298/PEBSIT004_GnomeOnARope_BigorniaK_CatalonC_GuerreroD
+
+469
+00:14:45,66 --> 00:14:49,666
+Thank You for Watching!!
+
+Authors:
+Kristian Paul Bigornia
+Calvin Klein Catalon
+Dhann Angelo Guerrero
+
+470
+00:00:00,0 --> 00:00:03,233
+How We built, 
+
+471
+00:00:00,0 --> 00:00:03,233
+Gnome’s Well
+
+472
+00:00:25,633 --> 00:00:27,566
+Quick Demo
+
+473
+00:00:25,633 --> 00:00:27,566
+Gnomes Well
+
+474
+00:02:06,633 --> 00:02:08,466
+Overview 
+
+475
+00:02:06,633 --> 00:02:08,466
+of architecture and main components
+
+476
+00:02:43,233 --> 00:02:45,133
+Step-by-step 
+
+477
+00:02:43,233 --> 00:02:45,133
+coding highlights
+
+478
+00:08:19,500 --> 00:08:21,900
+Assets & folder 
+
+479
+00:08:19,500 --> 00:08:21,900
+structure explanation 
+
+480
+00:11:36,233 --> 00:11:38,633
+Build/run instructions 
+
+481
+00:11:36,233 --> 00:11:38,633
+& how to test 
+
+482
+00:14:11,33 --> 00:14:13,433
+Known issues
+
+483
+00:14:11,33 --> 00:14:13,433
+& Possible Improvements
+
+484
+00:14:13,866 --> 00:14:15,533
+ang known issues ng laro namin
+
+485
+00:00:01,300 --> 00:00:03,233
+
+Authors:
+Kristian Paul Bigornia
+Calvin Klein Catalon
+Dhann Angelo Guerrero
+
+486
+00:11:38,933 --> 00:11:39,733
+eto yung
+
+487
+00:11:39,833 --> 00:11:40,666
+step by step
+
+488
+00:11:40,933 --> 00:11:42,633
+guide kung paano irun
+
+489
+00:11:42,966 --> 00:11:43,766
+and export
+
+490
+00:11:43,900 --> 00:11:44,700
+ah import
+
+491
+00:11:44,766 --> 00:11:45,566
+yung ating file
+
+492
+00:11:46,233 --> 00:11:47,300
+so first and foremost
+
+493
+00:11:47,566 --> 00:11:49,100
+download muna natin yung zip at
+
+494
+00:11:49,433 --> 00:11:50,233
+extract yung laman
+
+495
+00:11:50,266 --> 00:11:51,66
+pagkatapos natin
+
+496
+00:11:51,100 --> 00:11:51,533
+extract
+
+497
+00:11:51,533 --> 00:11:52,933
+open natin tong unity hub
+
+498
+00:11:53,433 --> 00:11:54,900
+pagka open natin sa unity hub
+
+499
+00:11:54,966 --> 00:11:56,166
+punta lang tayo dito sa add
+
+500
+00:11:57,333 --> 00:11:58,666
+then let's go to add
+
+501
+00:11:58,933 --> 00:11:59,900
+project from disk
+
+502
+00:12:00,266 --> 00:12:01,933
+then punta tayo kung saan nag
+
+503
+00:12:02,100 --> 00:12:03,233
+extract yung laro natin
+
+504
+00:12:03,366 --> 00:12:05,33
+then pindutin mo lang yung folder
+
+505
+00:12:05,966 --> 00:12:07,266
+then pagka open mo
+
+506
+00:12:07,366 --> 00:12:08,833
+ayan magwawarning siya
+
+507
+00:12:08,966 --> 00:12:11,100
+tong warning na to lalabas lang to pag
+
+508
+00:12:11,700 --> 00:12:12,500
+yung
+
+509
+00:12:12,966 --> 00:12:13,766
+ginamit nating
+
+510
+00:12:15,333 --> 00:12:16,133
+tawag dito
+
+511
+00:12:16,133 --> 00:12:17,233
+yung ginamit nating
+
+512
+00:12:17,333 --> 00:12:19,166
+editor version is mas mataas
+
+513
+00:12:19,266 --> 00:12:20,133
+so in this case
+
+514
+00:12:20,533 --> 00:12:21,333
+galing sa
+
+515
+00:12:21,466 --> 00:12:23,133
+pc ko yung file na to so
+
+516
+00:12:23,633 --> 00:12:24,433
+two point five
+
+517
+00:12:24,500 --> 00:12:27,966
+f yung version niya ang meron sa laptop na to is
+
+518
+00:12:28,300 --> 00:12:29,433
+two point four f
+
+519
+00:12:30,0 --> 00:12:30,800
+ayan
+
+520
+00:12:30,800 --> 00:12:31,833
+so fast forward
+
+521
+00:12:32,600 --> 00:12:34,266
+ah nagpakita na to
+
+522
+00:12:34,600 --> 00:12:35,400
+so
+
+523
+00:12:35,500 --> 00:12:37,266
+kahit naman hindi mo makita to
+
+524
+00:12:37,866 --> 00:12:38,600
+ang kailangan
+
+525
+00:12:38,600 --> 00:12:39,500
+nating gawin is
+
+526
+00:12:40,66 --> 00:12:41,333
+pindutin natin tong card
+
+527
+00:12:41,533 --> 00:12:42,333
+platform
+
+528
+00:12:42,500 --> 00:12:45,333
+at palitan natin ng android para mas mapabilis yung
+
+529
+00:12:46,433 --> 00:12:47,866
+ahmm pagloading natin
+
+530
+00:12:48,66 --> 00:12:48,866
+so
+
+531
+00:12:49,33 --> 00:12:51,800
+PS tong laro na to is made siya for android
+
+532
+00:12:52,0 --> 00:12:52,800
+specifically
+
+533
+00:12:53,333 --> 00:12:54,133
+kasi kailangan
+
+534
+00:12:54,433 --> 00:12:55,33
+kaya kailangan
+
+535
+00:12:55,33 --> 00:12:55,833
+natin mag install
+
+536
+00:12:55,933 --> 00:12:56,700
+ng android
+
+537
+00:12:56,700 --> 00:12:57,500
+build support
+
+538
+00:12:57,500 --> 00:12:58,133
+pag mag
+
+539
+00:12:58,133 --> 00:12:58,933
+install tayo ng
+
+540
+00:12:59,466 --> 00:13:00,266
+ah installer
+
+541
+00:13:00,466 --> 00:13:01,266
+so that's the 
+
+542
+00:13:01,433 --> 00:13:02,633
+pre requisite para maranto
+
+543
+00:13:02,800 --> 00:13:04,133
+is use which is yung android
+
+544
+00:13:04,800 --> 00:13:05,933
+ah build support
+
+545
+00:13:06,800 --> 00:13:08,666
+then iopen na lang natin siya
+
+546
+00:13:09,600 --> 00:13:10,433
+then change
+
+547
+00:13:10,533 --> 00:13:11,333
+version
+
+548
+00:13:13,233 --> 00:13:15,700
+yan pag nagpakita tong mga to continue lang natin
+
+549
+00:13:16,400 --> 00:13:18,166
+pag walang nagpakitang ganun
+
+550
+00:13:18,633 --> 00:13:21,233
+ang nagpapakita dapat talaga is halimbawa ito
+
+551
+00:13:21,800 --> 00:13:23,33
+pag pinindot mo siya
+
+552
+00:13:23,733 --> 00:13:24,633
+ayan ganito
+
+553
+00:13:24,800 --> 00:13:25,533
+lang siya
+
+554
+00:13:25,533 --> 00:13:26,200
+pag hindi
+
+555
+00:13:26,200 --> 00:13:27,633
+pag parehas lang kayo ng version
+
+556
+00:13:27,766 --> 00:13:28,566
+so
+
+557
+00:13:28,566 --> 00:13:29,133
+ang kailangan
+
+558
+00:13:29,133 --> 00:13:29,966
+pa rin nating gawin
+
+559
+00:13:30,66 --> 00:13:30,633
+for example
+
+560
+00:13:30,633 --> 00:13:31,833
+naimport na natin ganito
+
+561
+00:13:31,966 --> 00:13:33,466
+yung normal na magpapakita
+
+562
+00:13:33,833 --> 00:13:34,533
+then
+
+563
+00:13:34,533 --> 00:13:35,733
+pindutin natin yung editor
+
+564
+00:13:35,966 --> 00:13:36,766
+version
+
+565
+00:13:36,800 --> 00:13:37,866
+palitan natin yung current
+
+566
+00:13:38,33 --> 00:13:38,633
+platform
+
+567
+00:13:38,633 --> 00:13:39,933
+and palitan natin to
+
+568
+00:13:40,333 --> 00:13:40,866
+android
+
+569
+00:13:40,866 --> 00:13:41,666
+then open
+
+570
+00:13:41,766 --> 00:13:43,33
+pagkapindot mo ng android
+
+571
+00:13:43,566 --> 00:13:44,366
+open with
+
+572
+00:13:44,400 --> 00:13:45,133
+six thousand
+
+573
+00:13:45,133 --> 00:13:46,800
+point two point four f one
+
+574
+00:13:46,800 --> 00:13:48,833
+so yan pagka open na pagka
+
+575
+00:13:48,966 --> 00:13:49,733
+open natin
+
+576
+00:13:49,733 --> 00:13:50,500
+wait lang natin
+
+577
+00:13:50,500 --> 00:13:51,900
+magloading lahat yan
+
+578
+00:13:52,833 --> 00:13:54,166
+pag wala ng nagpapakitang
+
+579
+00:13:54,300 --> 00:13:54,833
+compiling
+
+580
+00:13:54,833 --> 00:13:55,600
+script sa
+
+581
+00:13:55,600 --> 00:13:56,533
+sa lower right
+
+582
+00:13:56,700 --> 00:13:57,500
+pwede na nating
+
+583
+00:13:57,600 --> 00:13:58,400
+open yung scenes
+
+584
+00:13:58,633 --> 00:13:59,633
+punta tayo sa menu
+
+585
+00:13:59,833 --> 00:14:00,700
+double click natin
+
+586
+00:14:01,166 --> 00:14:02,333
+then play the game
+
+587
+00:14:04,0 --> 00:14:04,766
+so yun lang
+
+588
+00:14:04,766 --> 00:14:05,566
+way para ma
+
+589
+00:14:05,733 --> 00:14:06,500
+run yung game
+
+590
+00:14:06,500 --> 00:14:07,166
+and one way
+
+591
+00:14:07,166 --> 00:14:07,966
+syempre ibuild mo
+
+592
+00:14:08,33 --> 00:14:08,600
+gawin mo siyang
+
+593
+00:14:08,600 --> 00:14:10,700
+apk para maglaro mo siya sa cellphone
+
