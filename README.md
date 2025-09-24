@@ -21,10 +21,15 @@ Touch:
 * On‑screen button – Pause
 * On-screen checkbox -Invincible
 
+  
+
+
+
 
 How to Run 
 1. Download the Game Build
-    * Get the ZIP file from the provided download link.
+    * Get the ZIP file from here: https://github.com/kuporo2298/PEBSIT004_GnomeOnARope_BigorniaK_CatalonC_GuerreroD/releases/download/gnome/release.zip.
+      
 2. Extract the ZIP File
     * Right‑click the ZIP file → select Extract All…
     * Choose a destination folder (e.g., C:\Games\GnomesWell)
